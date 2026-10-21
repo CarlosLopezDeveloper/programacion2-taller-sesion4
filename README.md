@@ -44,3 +44,4 @@ R/. Sobrescribir (Override): Ocurre en una relación de herencia cuando una clas
 Sobrecargar (Overload): Ocurre dentro de una misma clase cuando se definen múltiples métodos con el mismo nombre pero con diferentes parámetros (distinta cantidad o tipos de datos).
 •	Ejemplo: Tener dos constructores en la clase Empleado: uno sin parámetros Empleado() y otro parametrizado Empleado(String cedula, String nombre, String dependencia).
 
+![alt text](<nomina uml-1.PNG>)
